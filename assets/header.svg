@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ibrahim Tanirbergen — software developer and Information Systems student</title>
+  <desc id="desc">A navy and teal banner with the name Ibrahim Tanirbergen and an abstract network of connected software components.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1524"/>
+      <stop offset="1" stop-color="#15283A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 H 0 V 32" fill="none" stroke="#A0B7C9" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <path d="M22 0H1178A22 22 0 0 1 1200 22V25H0V22A22 22 0 0 1 22 0Z" fill="#5EEAD4" fill-opacity="0.045"/>
+  <rect x="58" y="64" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <text x="108" y="71" fill="#8FA8BA" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">IBRAHIM200546</text>
+  <text x="56" y="146" fill="#F2F7FA" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">Ibrahim Tanirbergen</text>
+  <text x="59" y="188" fill="#7CE6D3" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="0.2">Software developer · Information Systems student</text>
+  <text x="59" y="254" fill="#A6B7C8" font-family="Arial, Helvetica, sans-serif" font-size="19">Learning platforms</text>
+  <circle cx="247" cy="247" r="2.5" fill="#526D80"/>
+  <text x="266" y="254" fill="#A6B7C8" font-family="Arial, Helvetica, sans-serif" font-size="19">Maps &amp; navigation</text>
+  <circle cx="459" cy="247" r="2.5" fill="#526D80"/>
+  <text x="478" y="254" fill="#A6B7C8" font-family="Arial, Helvetica, sans-serif" font-size="19">Applied AI</text>
+  <g transform="translate(867 52)">
+    <path d="M24 36H126V99H230M126 99V190H38M230 99V190" fill="none" stroke="#3E6378" stroke-width="2"/>
+    <path d="M126 99H230" fill="none" stroke="#5EEAD4" stroke-width="2"/>
+    <rect x="4" y="16" width="42" height="42" rx="11" fill="#122538" stroke="#3A5C70"/>
+    <path d="M17 37l5 5 10-11" fill="none" stroke="#93B2C6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="92" y="65" width="68" height="68" rx="17" fill="#123846" stroke="#5EEAD4" stroke-opacity="0.65"/>
+    <path d="M114 88l-9 11 9 11M138 88l9 11-9 11M130 85l-8 28" fill="none" stroke="#7DEAD6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="209" y="78" width="42" height="42" rx="11" fill="#132C3C" stroke="#52758A"/>
+    <circle cx="230" cy="99" r="7" fill="none" stroke="#7BBFDA" stroke-width="2"/>
+    <rect x="17" y="169" width="42" height="42" rx="11" fill="#122538" stroke="#3A5C70"/>
+    <path d="M29 196V186M38 196V180M47 196V188" fill="none" stroke="#93B2C6" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="126" cy="190" r="4.5" fill="#3F7B82"/>
+    <circle cx="230" cy="190" r="4.5" fill="#3F7B82"/>
+    <circle cx="126" cy="36" r="4.5" fill="#3F7B82"/>
+  </g>
+  <path d="M58 290H1142" stroke="#718CA0" stroke-opacity="0.12"/>
+</svg>
