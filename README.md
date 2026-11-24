@@ -14,6 +14,13 @@ I'm **Ibrahim Tanirbergen**, an Information Systems student from **Taldykorgan, 
 
 My work includes inclusive educational software, campus navigation and a fleet-monitoring prototype. I'm developing my skills in **prompt engineering, AI/ML, databases and data analytics** through practical projects and university study.
 
+## Résumé
+
+| Қазақша | Русский | English |
+| :---: | :---: | :---: |
+| [PDF ашу](./CV_KZ.pdf) | [Открыть PDF](./CV_RU.pdf) | [Open PDF](./CV_EN.pdf) |
+| ![Қазақша түйіндеменің QR коды](./assets/qr/cv-kz.png) | ![QR-код русского резюме](./assets/qr/cv-ru.png) | ![QR code for the English résumé](./assets/qr/cv-en.png) |
+
 ## Selected projects
 
 <table>
