@@ -18,8 +18,8 @@ My work includes inclusive educational software, campus navigation and a fleet-m
 
 | Қазақша | Русский | English |
 | :---: | :---: | :---: |
-| [PDF ашу](./CV_KZ.pdf) | [Открыть PDF](./CV_RU.pdf) | [Open PDF](./CV_EN.pdf) |
-| ![Қазақша түйіндеменің QR коды](./assets/qr/cv-kz.png) | ![QR-код русского резюме](./assets/qr/cv-ru.png) | ![QR code for the English résumé](./assets/qr/cv-en.png) |
+| [PDF ашу](https://raw.githubusercontent.com/Ibrahim200546/Ibrahim200546/main/CV_KZ.pdf) | [Открыть PDF](https://raw.githubusercontent.com/Ibrahim200546/Ibrahim200546/main/CV_RU.pdf) | [Open PDF](https://raw.githubusercontent.com/Ibrahim200546/Ibrahim200546/main/CV_EN.pdf) |
+| ![Қазақша түйіндеменің QR коды](./assets/qr/cv-kz-direct.png) | ![QR-код русского резюме](./assets/qr/cv-ru-direct.png) | ![QR code for the English résumé](./assets/qr/cv-en-direct.png) |
 
 ## Selected projects
 
